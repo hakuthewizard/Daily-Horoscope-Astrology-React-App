@@ -35,3 +35,13 @@ body{
     cursor:pointer;
     background-color:#483838;
 }
+@media only screen and (max-width: 600px) {
+    .grid {
+      right:0.2rem;
+      left:0.2rem;
+     
+    }
+    .day-button {
+        font-size: 1rem;
+    }
+  }
