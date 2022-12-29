@@ -1,0 +1,37 @@
+html{
+    box-sizing:border-box;
+    margin:2rem;
+
+}
+body{
+    background-color:peachpuff;
+}
+.grid {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    gap:1rem;
+    margin:1rem;
+    justify-content:center;
+    margin-top:1rem;
+}
+.container > h2{
+    text-align:center;
+    font-size: 2rem;
+    color:#42855B;
+    margin:2rem;
+}
+.day-button {
+   text-decoration:none;
+   font-family: 'Space Mono', monospace;
+   background-color:#42855B;
+   border:0 solid transparent;
+   height: 4rem;
+   border-radius:2rem;
+   font-weight:bold;
+    color:peachpuff;
+    font-size:1.5rem;
+}
+.day-button:hover {
+    cursor:pointer;
+    background-color:#483838;
+}

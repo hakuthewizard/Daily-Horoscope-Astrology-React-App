@@ -1,0 +1,21 @@
+.main-container {
+    text-align:center;
+    font-size: 2rem;
+    color:#42855B;
+    margin:2rem;
+}
+.home-button {
+    text-decoration:none;
+    font-family:  'Seymour One', sans-serif;
+    background-color:peachpuff;
+    border:2px solid #42855B;
+    color:#42855B;
+    height: 3rem;
+    border-radius:1rem;
+    font-size:1rem;
+}
+.home-button:hover {
+    cursor:pointer;
+    background-color:#90B77D;
+    color:#483838;
+}
