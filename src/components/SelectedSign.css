@@ -13,9 +13,9 @@ body{
     justify-content:center;
     margin-top:1rem;
 }
-.container > h2{
+.container > h2 {
     text-align:center;
-    font-size: 2rem;
+    font-size: 3rem;
     color:#42855B;
     margin:2rem;
 }
@@ -24,11 +24,12 @@ body{
    font-family: 'Space Mono', monospace;
    background-color:#42855B;
    border:0 solid transparent;
-   height: 4rem;
+   height: 5rem;
    border-radius:2rem;
     color:peachpuff;
-    font-size:1.3rem;
+    font-size:1.6rem;
     font-weight:bold;
+    
 }
 .sign-button:hover {
     cursor:pointer;
