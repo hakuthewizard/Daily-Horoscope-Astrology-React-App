@@ -35,3 +35,9 @@ body{
     cursor:pointer;
     background-color:#483838;
 }
+@media only screen and (max-width: 600px) {
+    .sign-button {
+      margin-right:0.5rem;
+      margin-left:0.5rem;
+    }
+  }
