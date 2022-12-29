@@ -36,8 +36,8 @@ body{
     background-color:#483838;
 }
 @media only screen and (max-width: 600px) {
-    .sign-button {
-      margin-right:0.5rem;
-      margin-left:0.5rem;
+    .grid {
+      right:0.2rem;
+      left:0.2rem;
     }
   }
