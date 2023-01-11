@@ -43,5 +43,6 @@ body{
     }
     .day-button {
         font-size: 1rem;
+        border-radius:1.5rem;
     }
   }

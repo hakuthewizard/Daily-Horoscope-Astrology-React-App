@@ -43,5 +43,6 @@ body{
     }
     .sign-button {
         font-size: 0.9rem;
+        border-radius:1.5rem;
     }
   }
